@@ -1,5 +1,5 @@
 ---
-title: 置顶二维码
+title: 成员名单
 subtitle: （分流页面）
 layout: "page"
 icon: fa-cloud
