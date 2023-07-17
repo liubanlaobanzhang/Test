@@ -6,4 +6,8 @@ icon: fa-cloud-arrow-up
 order: 3
 ---
 
+<div align="center">
+
 <h2>施工中</h2>
+
+</div>
