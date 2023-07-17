@@ -11,40 +11,15 @@ order: 1
   <p>工作台</p>
 </header>
 
-|<div align='center'><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/AppBlue.png" height="100px"></div>|<div align='center'><img src="https://ghproxy.com/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/user.svg" height="100px"></div>|<div align='center'><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/notice.svg" height="100px"></div>
-|-|-|-|
-|<div align='center'><a href="https://liubanlaobanzhang.github.io/Test/topqr.html">合作社共享存储库<br>（置顶二维码）</div>|<div align='center'>成员名单</div>|<div align='center'>公告栏</div>|
-
-
-<!---
-<footer>
-  <div class="row">
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="https://liubanlaobanzhang.github.io/Test/topqr.html" class="image fit"><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/AppBlue.png"/></a>
-        <header>
-          <h3 href="https://liubanlaobanzhang.github.io/Test/topqr.html">合作社共享存储库</h3>
-          <p href="https://liubanlaobanzhang.github.io/Test/topqr.html">（置顶二维码）</p>
-        </header>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="https://liubanlaobanzhang.github.io/Test/user-list.html" class="image fit"><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/user.svg" height="300px"/></a>
-        <header>
-          <h3 href="https://liubanlaobanzhang.github.io/Test/topqr.html">成员名单</h3>
-        </header>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="https://liubanlaobanzhang.github.io/Test/notice.html" class="image fit"><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/notice.svg" height="300px"/></a>
-        <header>
-          <h3 href="https://liubanlaobanzhang.github.io/Test/topqr.html">公告栏</h3>
-        </header>
-      </div>
-    </div>
-
-  </div>
-</footer>
- -->
+<table>
+  <tr>
+    <td><div align='center'><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/AppBlue.png" height="100px"></div></td>
+    <td> <div align='center'><img src="https://ghproxy.com/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/user.svg" height="100px"></div></td>
+    <td><div align='center'><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/notice.svg" height="100px"></div></td>
+  </tr>
+  <tr>
+    <td><div align='center'><a href="https://liubanlaobanzhang.github.io/Test/topqr.html">合作社共享存储库<br>（置顶二维码）</a></div></td>
+    <td><div align='center'>成员名单</div></td>
+    <td><div align='center'>公告栏</div></td>
+  </tr>
+</table>
