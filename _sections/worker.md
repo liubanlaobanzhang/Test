@@ -11,12 +11,12 @@ order: 1
   <p>工作台</p>
 </header>
 
-|![](https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/AppBlue.png)|![](https://ghproxy.net/https%253A//raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/user.svg)|![](https://ghproxy.net/https%253A//raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/notice.svg)
+|<div align='center'><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/AppBlue.png" height="100px"></div>|<div align='center'><img src="https://ghproxy.com/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/user.svg" height="100px"></div>|<div align='center'><img src="https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanzhang/Test/master/assets/images/notice.svg" height="100px"></div>
 |-|-|-|
-|[合作社共享存储库](https://liubanlaobanzhang.github.io/Test/topqr.html)（置顶二维码）|成员名单|公告栏|
+|<div align='center'><a href="https://liubanlaobanzhang.github.io/Test/topqr.html">合作社共享存储库<br>（置顶二维码）</div>|<div align='center'>成员名单</div>|<div align='center'>公告栏</div>|
 
 
-<!--->
+<!---
 <footer>
   <div class="row">
     <div class="4u 12u$(mobile)">
@@ -47,3 +47,4 @@ order: 1
 
   </div>
 </footer>
+ -->
