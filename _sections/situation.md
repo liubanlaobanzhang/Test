@@ -9,13 +9,38 @@ order: 3
 
 <header>
 
-## 合作社状态
-
-| 服务 | 服务名 | 状态 | 备注 |
-|--|--|--|--|
-|总服务|*Main.Svc*|✅|
-| “市北内卷合作社”聊天群|*Chat.Svc*|✅|已于`2023.6.9`完全恢复。|
-|置顶二维码|*TopQR.Svc*|✅|已于`2023.6.1`完全恢复。|
-|合作社 Insider 主页|*Github.Project.Svc*|✅||
+<h2> 合作社状态 </h2><br>
+<table>
+    <tr>
+        <td>服务</td>
+        <td>服务名</td>
+        <td>状态</td>
+        <td>备注</td>
+    </tr>
+    <tr>
+        <td>总服务</td>
+        <td>Main.Svc</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> “市北内卷合作社”聊天群</td>
+        <td>Chat.Svc</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>置顶二维码</td>
+        <td>TopQR.Svc</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>合作社 Insider 主页</td>
+        <td>Github.Project.Svc</td>
+        <td>✅</td>
+        <td></td>
+    </tr>
+</table>
 
 </header>
