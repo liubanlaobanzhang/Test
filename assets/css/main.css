@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Minecraft AE Pixel";
+    font-family: "HarmonyOS Sans SC";
     src: url("https://raw.fastgit.ixmu.net/liubanlaobanzhang/Test/master/assets/css/font/font.ttf"),
   }
 
@@ -1443,7 +1443,7 @@ body {
 
 body {
     background: #fff;
-    font-family: 'Minecraft AE Pixel', sans-serif;
+    font-family: 'HarmonyOS Sans SC', sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
@@ -1462,7 +1462,7 @@ body.is-loading * {
 }
 
 input,textarea,select {
-    font-family: 'Minecraft AE Pixel', sans-serif;
+    font-family: 'HarmonyOS Sans SC', sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
@@ -1551,14 +1551,14 @@ code {
     background: rgba(0,0,0,0.05);
     border-color: rgba(0,0,0,0.2);
     border-radius: 4px;
-    font-family: 'Minecraft AE Pixel', monospace;
+    font-family: 'HarmonyOS Sans SC', monospace;
     font-size: 0.9em;
     padding: 0.25em 0.325em
 }
 
 pre {
     -webkit-overflow-scrolling: touch;
-    font-family: 'Minecraft AE Pixel', monospace;
+    font-family: 'HarmonyOS Sans SC', monospace;
     font-size: 0.9em;
     tab-size: 4;
     margin: 0 0 2em 0
@@ -1837,7 +1837,7 @@ input[type="button"]:active,input[type="submit"]:active,input[type="reset"]:acti
 }
 
 .icon::before {
-    font-family: 'Minecraft AE Pixel';
+    font-family: 'HarmonyOS Sans SC';
     font-weight: 900;
     display: inline-block;
     font-size: 1.25em;
@@ -1857,7 +1857,7 @@ input[type="button"]:active,input[type="submit"]:active,input[type="reset"]:acti
 }
 
 .icon-r::before {
-    font-family: 'Minecraft AE Pixel';
+    font-family: 'HarmonyOS Sans SC';
     font-weight: 400;
     display: inline-block;
     font-size: 1.25em;
@@ -1877,7 +1877,7 @@ input[type="button"]:active,input[type="submit"]:active,input[type="reset"]:acti
 }
 
 .icon-b::before {
-    font-family: 'Minecraft AE Pixel';
+    font-family: 'HarmonyOS Sans SC';
     font-weight: 900;
     display: inline-block;
     font-size: 1.25em;
@@ -2342,7 +2342,7 @@ input[type="button"]:active,input[type="submit"]:active,input[type="reset"]:acti
     }
 
     #headerToggle .toggle::before {
-        font-family: 'Minecraft AE Pixel';
+        font-family: 'HarmonyOS Sans SC';
         text-decoration: none;
         font-style: normal;
         font-weight: 900;
