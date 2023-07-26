@@ -4,7 +4,7 @@ cover-photo: https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanz
 cover-photo-alt: example cover photo
 auto-header: none
 icon: fa-right
-order: 3
+order: 11
 ---
 
 <header>

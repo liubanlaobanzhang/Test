@@ -4,8 +4,9 @@ cover-photo: https://ghproxy.net/https://raw.githubusercontent.com/liubanlaobanz
 cover-photo-alt: example cover photo
 auto-header: none
 icon: fa-th
-order: 1
+order: 10
 ---
+
 <header>
   <h2>市北内卷合作社</h2>
   <p>工作台</p>
